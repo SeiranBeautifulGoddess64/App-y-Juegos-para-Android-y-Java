@@ -21,3 +21,15 @@ la extensión.zip y asi para que quede xxxxx.apk
 ejemplo:
 LISTADO DE ARCHIVOS=
 https://archive.org/download/xxxxxxxx
+
+
+
+
+
+
+
+
+
+
+Secret:
+https://www.mediafire.com/folder/0xv4m0msqt1xy/Documentos
