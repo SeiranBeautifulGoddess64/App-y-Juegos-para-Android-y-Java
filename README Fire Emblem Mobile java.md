@@ -21,4 +21,3 @@ Juegos que me faltan corregir errores y mejorar
 ( Futuras actualizaciones )
 Fire Emblem 2 Oposición
 Fire Emblem 4 Regeneración
-Fire Emblem 2 Piratas vs Cannibales
