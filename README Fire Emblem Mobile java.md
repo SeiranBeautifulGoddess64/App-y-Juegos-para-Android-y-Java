@@ -17,7 +17,5 @@ Fire Emblem 2 Piratas vs Cannibales
 Botones J2ME Loader usados en Fire Emblem:
 ( ↑2 ←4 →6 ↓8 ) ( F ) ( * # ) ( R L )
 
-Juegos que me faltan corregir errores y mejorar
-( Futuras actualizaciones )
-Fire Emblem 2 Oposición
-Fire Emblem 4 Regeneración
+En un futuro traeré mas juegos traducidos al español
+He finalizado de traducir con Fire Emblem y corregi todos sus errores
